@@ -1,5 +1,5 @@
 # Reflex_tester
-The Reflex_tester is a program designed to test your reflexes by measuring your reaction time.  
+The Reflex_tester is a program(developed in qt creator) designed to test your reflexes by measuring your reaction time.  
 ## Instructions:
 In order to partake in "reflexTester" succesfully you'll need to know these things:    
 ->When launched a pop outwindow will open. Click the button when you are ready to test your reflexes.  
