@@ -17,6 +17,7 @@ HEADERS += \
 
 FORMS += \
     mainwindow.ui
+RESOURCES += images.qrc
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
